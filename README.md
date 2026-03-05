@@ -26,7 +26,7 @@ This alpha version is optimized for:
 
 ## 📥 How to Install & Run (Windows)
 
-1.  **Download:** Go to the [**Releases**](https://github.com/GylleTanken/RaceWithPros-Public/releases) page and download the latest `RaceWithPros_vX.X.zip`.
+1.  **Download:** Go to the [**Releases**](https://github.com/GylleTanken/RaceWithPros-Releases/releases) page and download the latest `RaceWithPros_vX.X.X.X.zip`.
 2.  **Extract:** Right-click the ZIP file and select **"Extract All..."**. 
     > ⚠️ **IMPORTANT:** You must keep the folder structure as in the extracted ZIP file. The app will not run if you move the `.exe` out of the folder.
 3.  **Run:** Double-click `racewithpros_flutter.exe`.
